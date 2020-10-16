@@ -1,0 +1,207 @@
+.header-graphware {
+padding-bottom: 5%;}
+
+.graphware-logo {margin: 0px;
+align: center;
+width: 100%;
+height: auto;}
+
+.hume-logo {margin-left: 0px;}
+
+.top-container {  background: url("");
+background-blend-mode: overlay;
+background-position: center;
+  background-size: cover;
+  background-blend-mode: overlay;
+  padding-bottom: 20px;
+  margin: 0px;
+  position: relative;}
+
+  .text-1 {
+  font-size: 67px;
+  font-family: "Proxima Nova";
+  color: rgba(59, 146, 201, 0.988);
+  font-weight: bold;
+  line-height: 1.074;
+  padding: 1% 8% ;
+  text-align: left;
+}
+
+.heres {font-size: 67px;
+font-family: "Proxima Nova";
+color: #884b99;
+font-weight: bold;
+line-height: 1.074;
+text-align: left;
+
+}
+
+.busy {font-size: 42px;
+font-family: "Proxima Nova";
+color: rgba(59, 146, 201, 0.988);
+font-weight: normal;
+line-height: 1.074;
+text-align: left;
+padding: 2.5% 8% ;
+}
+
+.list-1 {font-size: 42px;
+font-family: "Proxima Nova";
+color: rgba(59, 146, 201, 0.988);
+font-weight: normal;
+line-height: 1.474;
+text-align: left;
+z-index: 15;
+list-style-type: none;
+padding: 1% 8% ;}
+
+.container-2 {background: url("https://i.imgur.com/VWXcDLg.png");
+padding-top: 10px;
+background-size: cover;
+width: 100%;
+height: 100%;
+padding-bottom: 19px;
+}
+
+
+.text-2 {
+font-size: 65px;
+font-family: "Proxima Nova";
+color: #ffffff;
+font-weight: bold;
+line-height: 1.474;
+padding: 2% 45% 1% 8% ;
+text-align: left;
+}
+
+.text-light {
+font-size: 42px;
+font-family: "Proxima Nova";
+color: #ffffff;
+font-weight: normal;
+line-height: 1.474;
+padding:2% 30% 1% 8% ;
+text-align: left;
+}
+
+.list-2 {font-size:42px;
+font-family: "Proxima Nova";
+color: #ffffff;
+font-weight: normal;
+line-height: 1.474;
+text-align: left;
+list-style-type: none;
+padding: 2% 45% 1% 8% ;}
+
+
+.hume-logo-2 {width: 40rem;
+margin: 0% 45% 0% 8%;
+position: absolute;}
+
+
+ .dd1 {font-family: sans-serif;
+color: #11999E;
+font-size: 1.5rem;}
+
+.dd2 {font-family: sans-serif;
+line-height: 1.5;
+font-size: 1.2rem;}
+
+.sk-img {width: 15%;
+float: left;
+margin-right: 30px;}
+
+.pas-img {width: 16%;
+float: right;
+margin-left: 30px;
+border-radius: 50%;}
+
+.profile {margin-bottom: 70px;
+margin-top: 40px;}
+
+.intro {font-family: sans-serif;
+font-size: 1.7rem;
+width: 30%;
+margin: auto;
+margin-bottom: 140px;}
+
+.hello {font-family: monospace;
+color: #11999E;
+font-size: 4.2rem;}
+
+.my-skills {margin-top: 140px;
+font-family: futura;
+font-size: 3.2rem;
+color: #11999E ;}
+
+.touch {margin-top: 140px;
+margin-bottom: 40px;
+font-family: futura;
+font-size: 2.6rem;
+color: #11999E;}
+
+.contact {margin-bottom: 80px;
+font-family: sans-serif;
+font-size: 1.8rem;
+color: #17635e;}
+
+.btn {   -moz-box-shadow: 3px 3px 14px 0px #adb5b8;
+	-webkit-box-shadow: 3px 3px 14px 0px #adb5b8;
+	box-shadow: 3px 3px 14px 0px #adb5b8;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999E), color-stop(1, #17635e) );
+	background:-moz-linear-gradient( center top, #11999E 5%, #17635e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#09c2f0', endColorstr='#1e80d1');
+	background-color:#09c2f0;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+          text-indent:0;
+	border:1px solid #057fd0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:helvetica;
+	font-size:16px;
+	font-weight:bold;
+	font-style: normal;
+          height:42px;
+	line-height:42px;
+          width:148px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px -1px 0px #5b6178;}
+
+.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1e80d1), color-stop(1, #09c2f0) );
+	background:-moz-linear-gradient( center top, #1e80d1 5%, #09c2f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e80d1', endColorstr='#09c2f0');
+	background-color:#1e80d1;}
+
+.btn:active {
+	position:relative;
+	top:1px;}
+
+.bottom-container {background-color: #11999E;
+margin: 100px auto 0px;
+padding: 70px;}
+
+.footer-c {font-family: sans-serif;
+font-size: 1.2rem;
+color: #02d9cb;
+margin-bottom: 0px;
+padding: 20px 0px 0px 0px;}
+
+a {color: #02d9cb;
+font-family: sans-serif;
+margin: 10px 20px;
+font-size: 1.3rem;
+text-decoration: none;}
+a:hover {color: #e1e3e6;}
